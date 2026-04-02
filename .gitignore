@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 *.sage.py
-
+examples/old_examples
