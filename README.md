@@ -155,10 +155,10 @@ The Jupyter notebook `caterpillar_tree_expansion.ipynb` contains the computation
 In our setting, the Caterpillar tree is described by
 
 caterpillar = {
-    (1,): {'type':1},
-    (1,1): {'type':1},
-    (1,1,2): {'type':1},
-    (1,1,2,3): {'type':1},
+    (1,): {'stage':1},
+    (1,1): {'stage':1},
+    (1,1,2): {'stage':1},
+    (1,1,2,3): {'stage':1},
 }
 
 stage\_children = {1:3}
