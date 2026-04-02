@@ -1,5 +1,17 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Python / Sage
 __pycache__/
 *.pyc
 *.sage.py
-examples/old_examples
+
+# Local notebooks (not for repo)
+compute_*.ipynb
+computing symmetries.ipynb
+
+# Old examples
+examples/old_examples/
+
+# Misc
+README_ex.md
